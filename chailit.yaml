@@ -1,0 +1,5 @@
+code: |
+  Action = type('Action', (), {})
+  CodeSettings(action_callbacks={}, actions=[])
+default_expanded: false
+hide_cot: false

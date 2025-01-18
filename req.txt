@@ -1,0 +1,7 @@
+chainlit==0.7.700
+pypdf2==3.0.1
+nltk==3.8.1
+scikit-learn
+pydantic==2.5.2
+typing-extensions==4.8.0
+python-dotenv==1.0.0
